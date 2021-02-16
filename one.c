@@ -2,5 +2,6 @@
 void main()
 {
 printf("Git and Github");
-printf("vrsec")
+printf("vrsec");
+printf("harinath");
 }
